@@ -35,10 +35,10 @@ The analysis uncovers crucial patterns between economic and health metrics, help
   ```
 **2. Open the Jupyter Notebook:**
 - Navigate to the `notebooks/` folder and open `global_trends_analysis.ipynb` using Jupyter Notebook or Jupyter Lab:
-```bash
-cd Global-Trends-Analysis/notebooks/
-jupyter notebook global_trends_analysis.ipynb
-```
+  ```bash
+  cd Global-Trends-Analysis/notebooks/
+  jupyter notebook global_trends_analysis.ipynb
+  ```
 **3. Load the Dataset:**
 - The dataset `gapminder_full.csv` is located in the `data/` folder. The notebook should automatically load it, but if not, update the file path in the notebook to:
   ```python
