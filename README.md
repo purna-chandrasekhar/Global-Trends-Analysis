@@ -21,7 +21,8 @@ The analysis uncovers crucial patterns between economic and health metrics, help
 ### Files:
 - `data/gapminder_full.csv`: Contains the original Gapminder dataset used for population, health, and economic trends analysis.
 - `notebooks\global_trends_analysis.ipynb`: Jupyter Notebook with the complete Exploratory Data Analysis (EDA) and visualizations of the Gapminder data.
-- `reports\global_trends_analysis.docx`: Document with detailed descriptions of visualizations and key findings from the EDA.
+- `reports\global_trends_analysis.docx`: Word document with detailed descriptions of visualizations and key findings from the EDA.
+- `reports\global_trends_analysis.pdf`: Pdf document with results of the analysis and visualizations
 
 ## How to use
 
@@ -46,3 +47,4 @@ The analysis uncovers crucial patterns between economic and health metrics, help
   ```
 **4. View Visualizations and Analysis:**
 - Open the `reports/global_trends_analysis.docx` file to review the detailed descriptions of the visualizations and the analysis conducted in the notebook.
+- Open the `reports/global_trends_analysis.pdf` file to view the results of the final output of the analysis
